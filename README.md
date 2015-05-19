@@ -1,6 +1,6 @@
-# test-js
+# blending 
 
-A Quil sketch designed to ... well, that part is up to you.
+This project is just to illustrate an issue with color transparency and blending in the clojurescript version of quil.
 
 ## Usage
 
@@ -10,7 +10,7 @@ For interactive development run `lein cljsbuild auto` command. This command will
 
 ## License
 
-Copyright © 2015 FIXME
+Copyright © 2015 Jacob Michelsen
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.

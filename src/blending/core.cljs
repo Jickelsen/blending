@@ -15,7 +15,7 @@
   (q/background 240)
 
   ;; Alpha is ignored when using :p3d
-  (q/fill (:color state) 255 255 10)
+  (q/fill 0 255 0 100)
   (q/ellipse 100 100 100 100)
 
   ;; blend-color shows up as white regardless of rendering mode
